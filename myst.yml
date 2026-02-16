@@ -9,8 +9,6 @@ project:
     - "**/.ipynb_checkpoints/*"
 
   toc:
-    - file: index.md
-      title: Home
     - file: Quant Analysis.ipynb
       title: Quantitative Analysis
 
