@@ -1,0 +1,21 @@
+version: 1
+
+project:
+  exclude:
+    - .github/*
+    - .pytest_cache/*
+    - .venv/*
+    - _build/*
+    - "**/.ipynb_checkpoints/*"
+
+  toc:
+    - file: index.md
+      title: Home
+
+    - title: Research
+      children:
+        - file: quant-analysis.ipynb
+          title: Quantitative Analysis
+
+site:
+  title: Brazil Open Finance
