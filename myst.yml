@@ -18,4 +18,4 @@ project:
           title: Quantitative Analysis
 
 site:
-  title: Brazil Open Finance
+  template: book-theme
