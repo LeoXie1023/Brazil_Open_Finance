@@ -2,7 +2,6 @@ version: 1
 
 project:
   title: Brazil Open Finance Quantitative Analysis
-  author: Zhengyang
   exclude:
     - .github/*
     - .pytest_cache/*
