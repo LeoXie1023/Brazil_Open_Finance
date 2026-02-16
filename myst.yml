@@ -14,4 +14,4 @@ project:
       title: Quantitative Analysis
 
 site:
-  template: article-theme
+  template: book-theme
