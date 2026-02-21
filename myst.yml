@@ -1,0 +1,17 @@
+version: 1
+
+project:
+  title: Capstone Project
+  exclude:
+    - .github/*
+    - .pytest_cache/*
+    - .venv/*
+    - _build/*
+    - "**/.ipynb_checkpoints/*"
+
+  toc:
+    - file: Quant Analysis.ipynb
+      title: Quantitative Analysis
+
+site:
+  template: article-theme
